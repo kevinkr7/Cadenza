@@ -1,0 +1,6 @@
+{
+  "name": "VocaAI",
+  "description": "Your Personal AI Vocal Coach. Real-time pitch tracking, vocal feedback, personalized AI coaching, and visual analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

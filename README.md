@@ -1,7 +1,7 @@
 # 🎵 Cadenza: AI-Powered Vocal Coach & Performance Intelligence
 
 <p align="center">
-  <img src="Cadenza.png" alt="Cadenza Banner" width="850" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+  <img src="Cadenza.png" alt="Cadenza Banner" width="150" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center">
